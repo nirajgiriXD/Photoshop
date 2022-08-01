@@ -1,5 +1,5 @@
 # Photoshop
 
-This repository is to showcase interest towards graphic designing (I know it's photoshop...) and not my skills.
+This repository is to showcase my interest towards graphic designing and not my skills.
 
 XD
